@@ -2,7 +2,11 @@ body{
     background-color: blue
 }
 
-h1{
+img {
+  width: 100%;
+}
+
+h1 {
   text-align: center;
 }
 
@@ -12,5 +16,5 @@ p {
 }
 
 p em {
-color: aqua;    
+color: rgb(0, 12, 12);    
 }
