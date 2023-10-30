@@ -1,16 +1,17 @@
-body{
-    background-color: blue
+body {
+  background-color: blue
 }
 
 img {
   width: 100%;
 }
- .apresentacao{
- background: #CCCCCC;
-  padding: 30px;
- }
 
- h1 {
+.apresentacao {
+  background: #CCCCCC;
+  padding: 30px;
+}
+
+h1 {
   text-align: center;
 }
 
@@ -20,14 +21,25 @@ p {
 }
 
 em strong {
-color: black;    
-}  
+  color: black;
+}
 
 .beneficios {
-background: #FFFFFF;
+  background: #FFFFFF;
   padding: 20px;
 }
 
 h2 {
   text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagembeneficios {
+  width: 50%;
 }
