@@ -5,8 +5,12 @@ body{
 img {
   width: 100%;
 }
+ .apresentacao{
+ background: #CCCCCC;
+  padding: 30px;
+ }
 
-h1 {
+ h1 {
   text-align: center;
 }
 
@@ -17,4 +21,13 @@ p {
 
 em strong {
 color: black;    
+}  
+
+.beneficios {
+background: #FFFFFF;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
 }
